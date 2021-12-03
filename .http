@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+    "Book": "Holy Book",
+    "Name": "Aniket",
+    "Date": "05/07/2021"
+}
